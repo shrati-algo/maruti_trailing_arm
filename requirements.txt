@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pyzmq
+Flask
+pandas
+mysql-connector-python
+
+
+#https://screenleap.com/akshay_sharma

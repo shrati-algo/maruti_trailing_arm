@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+.venv/
+env/
+
+# Logs
+*.log
+
+# YOLO / Models
+*.pt
+*.onnx
+*.engine
+
+# Outputs
+runs/
+output/
+outputs/
+output_frames/
+
+# Dataset (optional)
+data/
+datasets/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,52 @@
+# Ignore Python cache & temp files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+# Ignore environment & virtualenv directories
+env/
+venv/
+.venv/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Git metadata
+.git/
+.gitignore
+
+# Ignore IDE/editor configs
+.vscode/
+.idea/
+
+# Ignore large or unnecessary project files
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.svg
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Ignore build artifacts
+dist/
+build/
+*.egg-info/
+
+# Ignore local configuration
+*.env
+.env*
+secrets.json
+
+# Ignore misc folders not needed in container
+tests/
+docs/
