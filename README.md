@@ -272,6 +272,4 @@ Verify:
 - The pipeline uses production MySQL logging and local SQLite diagnostics.
 - Fallback image duplication is used when one camera image is missing.
 
----
-
-If you want, I can also add a visual architecture diagram or a short quickstart section for new operators.
+--
