@@ -1,4 +1,4 @@
-# Frame Grab Filtered Pipeline
+#Real time defect detection in manufacturing
 
 ## Overview
 
