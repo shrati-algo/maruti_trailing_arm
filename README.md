@@ -96,10 +96,10 @@ Required sections:
 
 ```ini
 [database]
-DB_NAME=maruti_ta
+DB_NAME=++++++++
 DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=Dev112233
+DB_USER=++++
+DB_PASSWORD=++++++
 
 [zmq]
 ip = 127.0.0.1
