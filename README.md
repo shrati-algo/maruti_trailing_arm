@@ -1,4 +1,4 @@
-#Real time defect detection in manufacturing
+## Real time defect detection in manufacturing
 
 ## Overview
 
